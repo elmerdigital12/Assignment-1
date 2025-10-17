@@ -31,6 +31,3 @@ document.addEventListener('DOMContentLoaded', () => {
 // app js = interaktivitet
 
 
-
-
-

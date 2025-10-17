@@ -17,7 +17,7 @@ button:hover {
     background-color: #61e345;
 }
 #timeDisplay {
-    margin-top: 15px;
+    margin-top: 25px;
     font-size: 1.5rem;
     font-family: monospace;
     color: #2fa524;
@@ -28,7 +28,7 @@ body {
 header, footer {
     background-color: #c10ee8;
     color: blue;
-    padding: 20px;
+    padding:30px;
     text-align: center;
 }
 
