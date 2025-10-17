@@ -8,3 +8,5 @@ samt
 <link rel="stylesheet" href="style.css">
 
 
+När man laddar en hemsida i webbläsaren så försöker den hämta informationen från koden. Först HTML, sen CSS och sist JS.
+För att det ska fungera måste koden vara igång på datorn eller webb-hostad.
