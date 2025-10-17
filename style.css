@@ -1,13 +1,9 @@
-
-body{
-}
 body {
     font-family: Helvtica, sans-serif;
     padding: 40px;
     text-align: center;
     background-color: #f2f2f2;
 }
-
 button {
     padding: 20px 30px;
     font-size: 12px;
@@ -17,26 +13,24 @@ button {
     border: black solid 3px;
     border-radius: 7px;
 }
-
 button:hover {
     background-color: #61e345;
 }
-
 #timeDisplay {
     margin-top: 15px;
     font-size: 1.5rem;
     font-family: monospace;
     color: #2fa524;
 }
-
 body {
-
     background-color: #b4b8dd;
 }
-
 header, footer {
     background-color: #c10ee8;
     color: blue;
     padding: 20px;
     text-align: center;
 }
+
+
+
